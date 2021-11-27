@@ -3,9 +3,13 @@ You can check a city's current weather and tempurture just typein it's name.
 
 # Functions and 3rd party liberary I use
 Use openweathermap's api to gain weather data.
+
 Use Core Location to get current locationi with phone GPS.
+
 URLSession and make HTTP requests.
+
 Parse JSON with Encodable and Decodable protocols.
+
 Use ```DispatchQueue.main.async``` to fetch the main thread.
 
 
